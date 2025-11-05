@@ -1,0 +1,7 @@
+{
+  "name": "Personal Voice Assistant",
+  "description": "A personal voice assistant for your browser, powered by Gemini. It can answer questions, provide information, and engage in conversation using speech recognition and text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
